@@ -1,3 +1,4 @@
+
 [aristaswitches]
 ; description of our arista inventory
 sw1         ansible_host=172.16.2.10
